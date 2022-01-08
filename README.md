@@ -6,8 +6,8 @@ Team name : Project 0
 Title : Weather Website
 
 Members : 
-Daksh Hinger  (BTECH/10374/20)
-Abhinav Anand (BTECH/10217/20)
+Daksh Hinger  (BTECH/10374/20), 
+Abhinav Anand (BTECH/10217/20), 
 Abhinav Anand (BTECH/10054/20)
 
 Domain of project : Web Development
