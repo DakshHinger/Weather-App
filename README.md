@@ -3,7 +3,7 @@ Hosted Link : https://dakshhinger.github.io/Weather-App/
 
 Team name : Project 0
 
-Title : Weather Website
+Title : Weather App
 
 Members : 
 Daksh Hinger  (BTECH/10374/20), 
